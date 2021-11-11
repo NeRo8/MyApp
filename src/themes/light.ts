@@ -8,4 +8,5 @@ export default {
   $morning: '#FFBA7C',
   $fog: '#FFDEEF',
   $eclipse: '#573353',
+  $background: '#FFF3E9',
 };
